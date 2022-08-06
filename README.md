@@ -1,5 +1,6 @@
 # Designer
 ### Color
+
 Osnovne sheme boja
 
      Postoje različiti sistemi, odnosno sheme usklađivanja boja: analogni, komplementarni, razdvojeni komplementarni, triadni, tetradični i monohromatski sistem. Analogne boje se nalaze jedna pored druge u krugu boja i, kako im i sama riječ kaže, te boje se međusobno slažu. Analogne boje su npr. plava i zelena, i ova shema boja je veoma prijatna oku. Jedna boja se bira da bude dominantna, a druga da podržava prvu.
